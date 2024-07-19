@@ -1,0 +1,8 @@
+@import "./components/Hero.jsx";
+.hero-right{
+    /* background-image: url("src/assets/images/hero-background.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; */
+    background-color: aqua;
+}
